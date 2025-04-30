@@ -1,0 +1,14 @@
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\bin\Debug\net8.0\PB305task5.exe
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\bin\Debug\net8.0\PB305task5.deps.json
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\bin\Debug\net8.0\PB305task5.runtimeconfig.json
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\bin\Debug\net8.0\PB305task5.dll
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\bin\Debug\net8.0\PB305task5.pdb
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.AssemblyInfoInputs.cache
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.AssemblyInfo.cs
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.csproj.CoreCompileInputs.cache
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.dll
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\refint\PB305task5.dll
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.pdb
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.genruntimeconfig.cache
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\ref\PB305task5.dll
