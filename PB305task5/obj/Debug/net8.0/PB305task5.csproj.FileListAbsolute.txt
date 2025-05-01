@@ -12,3 +12,4 @@ C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\refint
 C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.pdb
 C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.genruntimeconfig.cache
 C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\ref\PB305task5.dll
+C:\Users\akifst\Desktop\PB305task5\PB305task5\PB305task5\obj\Debug\net8.0\PB305task5.sourcelink.json
